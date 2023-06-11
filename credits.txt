@@ -4,4 +4,3 @@ Paintings: GraysBlock
 Snow Golem Inspiration: Grian
 Technoblade Pig Inspiration: Minecraft
 Dr. Trayaurus Inspiration: DanTDM
-Code for Connected Log Textures: StitchSprites
