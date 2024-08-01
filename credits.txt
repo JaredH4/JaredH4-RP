@@ -2,5 +2,6 @@ Original Textures: Jappa
 Most of the Textures: JaredH4
 Paintings: GraysBlock
 Snow Golem Inspiration: Grian
-Technoblade Pig Inspiration: Minecraft
+Technoblade Pig Inspiration: Minecraft/Technoblade
 Dr. Trayaurus Inspiration: DanTDM
+TommyInnit Zombie Inspiration: TommyInnit
